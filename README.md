@@ -25,10 +25,6 @@ Launch101 is a specialized modpack installer designed for fans of the YouTuber L
 2. Run the setup file.
 3. Run Launch101.
 
-## Contributing
-
-We welcome contributions from the community! If you encounter any issues, have ideas for improvements, or would like to contribute code, please open an issue or create a pull request.
-
 ## Issue Reporting
 
 If you come across any problems or have suggestions for enhancements, please open an issue on the [GitHub issues page](https://github.com/HEO-Systems/Launch101/issues). Provide detailed information about the issue or your suggestion to help us understand and address it more effectively.
