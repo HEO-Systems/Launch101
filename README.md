@@ -39,7 +39,7 @@ For any inquiries or assistance, feel free to reach out to us via email at [info
 
 ## About HEO Systems
 
-Launch101 is owned and developed by HEO Systems. Learn more about us and our projects at [heosystems.com](https://heo-systems.net/).
+Launch101 is owned and developed by HEO Systems. Learn more about us at [heo-systems.net/about-us](https://heo-systems.net/about-us/).
 
 ---
 
