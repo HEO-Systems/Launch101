@@ -6,34 +6,24 @@
 
 ## Overview
 
-Launch101 is a specialized modpack installer designed for fans of the popular YouTuber, Link101. This tool simplifies the process of installing and managing the modpacks featured by Link101 in an efficient and user-friendly manner.
+Launch101 is a specialized modpack installer designed for fans of the YouTuber Link101. This tool simplifies the process of installing and managing the modpacks featured by Link101 in an efficient and user-friendly manner.
 
 ## Features
 
 - **Streamlined Installation**: Quickly install Link101's modpacks with just a few clicks.
-- **Automated Updates**: Stay up-to-date with the latest mods and configurations effortlessly.
-- **User-Friendly Interface**: A simple and intuitive UI for a hassle-free experience.
-- **Modpack Management**: Easily switch between different Link101 modpacks and manage configurations.
+- **User-Friendly Interface**: A simple UI for a hassle-free experience.
 
 ## Getting Started
 
 ### Prerequisites
 
-- Ensure you have Java installed on your system.
 - Make sure you have the latest version of Launch101.
 
 ### Installation
 
 1. Download the latest version of Launch101 from the [releases page](https://github.com/HEO-Systems/Launch101/releases).
-2. Extract the downloaded ZIP file to your desired location.
-3. Run Launch101.jar to launch the application.
-
-## Usage
-
-1. Open Launch101 and log in with your Link101 account.
-2. Browse the available modpacks from Link101's collection.
-3. Select your desired modpack and click "Install."
-4. Launch the game and enjoy Link101's curated gaming experience!
+2. Run the setup file.
+3. Run Launch101.
 
 ## Contributing
 
